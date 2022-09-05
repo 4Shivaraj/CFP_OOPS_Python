@@ -1,2 +1,6 @@
 2022-09-06 01:07:38,799 (Abstraction) DEBUG Employee is present
 2022-09-06 01:07:38,799 (Abstraction) DEBUG Employee wage
+2022-09-06 02:12:57,694 (Inheritance) DEBUG bridge_labz company was established in 2015
+2022-09-06 02:51:39,793 (Multiple_Inheritance) INFO Shivaraj
+2022-09-06 02:51:46,571 (Multi_level_Inheritance) DEBUG Shivaraj
+2022-09-06 02:51:46,571 (Multi_level_Inheritance) DEBUG Cheluvesha
