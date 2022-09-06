@@ -4,3 +4,12 @@
 2022-09-06 02:51:39,793 (Multiple_Inheritance) INFO Shivaraj
 2022-09-06 02:51:46,571 (Multi_level_Inheritance) DEBUG Shivaraj
 2022-09-06 02:51:46,571 (Multi_level_Inheritance) DEBUG Cheluvesha
+2022-09-06 13:26:46,303 (Encapsulation) DEBUG Tyres: 
+ 	Branch: Pirelli
+ 	Belted-bias: True
+ 	Optimal pressure: 2.0
+Engine: 
+ 	Fuel type: Diesel
+ 	Noise level: 3
+Body: 
+ 	Size: Medium toyota
