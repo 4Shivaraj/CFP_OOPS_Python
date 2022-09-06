@@ -16,14 +16,12 @@ class Computation(ABC):
     @abstractmethod
     def check_attendance(self):
         """
-
-        :return:
+        doc string
         """
-
 
     @abstractmethod
     def calculate_wage(self):
-        pass
+        ...  # pass
 
 
 class Employee(Computation):

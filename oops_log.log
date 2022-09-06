@@ -13,3 +13,16 @@ Engine:
  	Noise level: 3
 Body: 
  	Size: Medium toyota
+2022-09-06 14:58:35,600 (Polymorphism) DEBUG 11
+2022-09-06 14:58:35,601 (Polymorphism) DEBUG shivraj
+2022-09-06 14:58:35,601 (Polymorphism) DEBUG [1, 2, 3, 34, 34, 55, 66]
+2022-09-06 14:59:36,713 (Polymorphism_Method_over_loading) DEBUG 16
+2022-09-06 14:59:36,713 (Polymorphism_Method_over_loading) DEBUG 12
+2022-09-06 14:59:36,713 (Polymorphism_Method_over_loading) DEBUG 17.204
+
+2022-09-06 15:01:12,744 (Polymorphism_Method_over_riding) DEBUG Car max speed is 240
+2022-09-06 15:01:12,744 (Polymorphism_Method_over_riding) DEBUG Car change 7 gear
+2022-09-06 15:01:12,744 (Polymorphism_Method_over_riding) DEBUG Vehicle max speed is 150
+2022-09-06 15:01:12,744 (Polymorphism_Method_over_riding) DEBUG Vehicle change 6 gear
+2022-09-06 15:02:20,603 (Polymorphism_Operator_over_loading) DEBUG 3
+2022-09-06 15:02:20,603 (Polymorphism_Operator_over_loading) DEBUG ShivarajGowda
