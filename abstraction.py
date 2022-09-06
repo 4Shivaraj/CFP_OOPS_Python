@@ -15,7 +15,11 @@ class Computation(ABC):
 
     @abstractmethod
     def check_attendance(self):
-        pass
+        """
+
+        :return:
+        """
+
 
     @abstractmethod
     def calculate_wage(self):
