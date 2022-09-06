@@ -36,28 +36,28 @@ from multipledispatch import dispatch
 
 class Calculator:
     @dispatch(int, int)
-    def product(first, second):
+    def product(self, first, second):
         result = first * second
         lg.debug(result)
 
     @dispatch(int, int, int)
-    def product(first, second, third):
+    def product(self, first, second, third):
         result = first * second * third
         lg.debug(result)
 
     @dispatch(float, float, float)
-    def product(first, second, third):
+    def product(self, first, second, third):
         result = first * second * third
         lg.debug(result)
-
-"""
-16
-12
-17.204
-"""
 
 
 product_obj = Calculator()
 product_obj.product(2, 8)
 product_obj.product(2, 3, 2)
 product_obj.product(2.2, 3.4, 2.3)
+
+"""
+16
+12
+17.204
+"""
